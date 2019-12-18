@@ -9,5 +9,3 @@ The dataset is downloaded from the below website
 
 https://finance.yahoo.com/
 
-The model proposed is initial base line which i have referred using the below github link
-https://github.com/krishnaik06/Stock-Price-Prediction-using-Keras-and-Recurrent-Neural-Networ/blob/master/rnn.py
